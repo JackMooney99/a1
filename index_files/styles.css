@@ -70,33 +70,8 @@ body h1  {
 
 body p {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	/*padding-top: px;*/
 	font-weight: bold;
 	text-align: center;
-}
-
-.homepageimg {
-    float: left;
-}
-
-.rabbit {
-    float: right;
-	padding-bottom: 5px;
-}
-
-.about.cosplay.content p {
-	text-align: left;
-    margin-left: 50px;
-}
-.about.cosplay.content h1 {
-	text-align: left;
-    margin-left: 650px;
-}
-
-.about.cosplay.content img {
-    float: left;
-    margin-right: 10px;
-    margin-top: 90px;
 }
 
 .external.links h2 {
@@ -121,62 +96,6 @@ body p {
     display: block;
     margin-top: 30px;
     margin-right: 10px;
-}
-
-/*#partycouple {*/
-    /*display: block;*/
-    /*float: left;*/
-    /*clear: left;*/
-/*}*/
-
-.eventsintro h2 {
-	text-align: center;
-}
-.eventsintro p {
-    text-align: left
-
-
-}
-
-#DJimage {
-    float: right;
-    /*display: block;*/
-    margin-left: 10px;
-
-
-}
-
-#eventsguideline h2 {
-	color: #FCFCFC;
-	text-align: center;
-	margin-top: 30px;
-
-
-}
-
-#eventsguideline p {
-	text-align: justify;
-
-}
-.products-content h1 {
-    text-align: left;
-}
-
-.products-content p {
-    text-align: left;
-}
-
-.products-content img {
-    float: left;
-    margin-right: 10px;
-    margin-top: 70px;
-}
-
-#costume-sample h3 {
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: xx-large;
-    text-align: center;
-    color: #FCFCFC;
 }
 
 table tr td {
